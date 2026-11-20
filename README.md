@@ -1,2 +1,2 @@
-# mecquard-nsbm-ruhunu-university
+# mecquard-nsbm-IIT-university
 # proposal update
